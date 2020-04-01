@@ -1,0 +1,7 @@
+C:\Users\Corvus\source\repos\KeyTraning\KeyTraning\bin\Debug\KeyTraning.exe.config
+C:\Users\Corvus\source\repos\KeyTraning\KeyTraning\bin\Debug\KeyTraning.exe
+C:\Users\Corvus\source\repos\KeyTraning\KeyTraning\bin\Debug\KeyTraning.pdb
+C:\Users\Corvus\source\repos\KeyTraning\KeyTraning\obj\Debug\KeyTraning.csprojAssemblyReference.cache
+C:\Users\Corvus\source\repos\KeyTraning\KeyTraning\obj\Debug\KeyTraning.csproj.CoreCompileInputs.cache
+C:\Users\Corvus\source\repos\KeyTraning\KeyTraning\obj\Debug\KeyTraning.exe
+C:\Users\Corvus\source\repos\KeyTraning\KeyTraning\obj\Debug\KeyTraning.pdb
